@@ -69,7 +69,13 @@ layout: default
       <h2 style="margin-top:40pt;margin-bottom:20pt">
         <a style="color: inherit">Awards & Honors</a>
       </h2>
-      {% include awards.liquid %}
+      <div class="awards">
+        {% capture awards_content %}
+          {% include_relative awards.md %}
+        {% endcapture %}
+        {% assign awards_content = awards_content | split: "---" | last %}
+        {{ awards_content | markdownify }}
+      </div>
     {% endif %}
 
     <!-- Teaching -->
@@ -77,7 +83,13 @@ layout: default
       <h2 style="margin-top:40pt;margin-bottom:20pt">
         <a style="color: inherit">Teaching</a>
       </h2>
-      {% include teaching.liquid %}
+      <div class="teaching">
+        {% capture teaching_content %}
+          {% include_relative teaching.md %}
+        {% endcapture %}
+        {% assign teaching_content = teaching_content | split: "---" | last %}
+        {{ teaching_content | markdownify }}
+      </div>
     {% endif %}
 
     <!-- Services -->
@@ -85,7 +97,13 @@ layout: default
       <h2 style="margin-top:40pt;margin-bottom:20pt">
         <a style="color: inherit">Services</a>
       </h2>
-      {% include services.liquid %}
+      <div class="services">
+        {% capture services_content %}
+          {% include_relative services.md %}
+        {% endcapture %}
+        {% assign services_content = services_content | split: "---" | last %}
+        {{ services_content | markdownify }}
+      </div>
     {% endif %}
 
     <!-- Social -->

@@ -1,0 +1,7 @@
+<div class="services">
+  {% capture services_content %}
+    {% include_relative services.md %}
+  {% endcapture %}
+  {% assign services_content = services_content | split: "---" | last %}
+  {{ services_content | markdownify }}
+</div>

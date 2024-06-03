@@ -1,0 +1,56 @@
+"S&P":
+  color: "#f95150"
+
+"USENIX Security":
+  color: "#f95150"
+
+"CCS":
+  color: "#f95150"
+
+"NDSS":
+  color: "#f95150"
+
+"NeurIPS":
+  color: "#0193bd"
+
+"ICML":
+  color: "#0193bd"
+
+"ICLR":
+  color: "#0193bd"
+
+"ICLR Workshop":
+  color: "#0193bd"
+
+"AAAI":
+  color: "#0193bd"
+
+"CVPR":
+  color: "#0193bd"
+
+"ECCV":
+  color: "#0193bd"
+
+"ACL":
+  color: "#0193bd"
+
+"EACL":
+  color: "#0193bd"
+
+"ICSE":
+  color: "#887b77"
+
+"FSE":
+  color: "#887b77"
+
+"ISSTA":
+  color: "#887b77"
+
+"OOPSLA":
+  color: "#887b77"
+
+"CAIN":
+  color: "#887b77"
+
+"IEEE Trans. Reliab.":
+  color: "#887b77"

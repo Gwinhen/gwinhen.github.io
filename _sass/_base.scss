@@ -750,8 +750,13 @@ footer.sticky-bottom {
           }
         }
         a.award.btn {
-          background-color: #ff6600;
-          border-color: #ff6600;
+          background-color: var(--global-award-color);
+          border-color: 1px solid;
+
+          &:hover {
+            color: #5f8cee;
+            border-color: #5f8cee;
+          }
         }
       }
 
@@ -814,7 +819,12 @@ footer.sticky-bottom {
       border: dashed 1px var(--global-bg-color);
     }
     div.award.hidden.open {
-      border-color: var(--global-highlight-color);
+      border: 1px dashed #5f8cee;
+
+      p {
+        color: #5f8cee;
+        font-weight: bolder;
+      }
     }
   }
 }

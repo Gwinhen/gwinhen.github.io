@@ -30,7 +30,7 @@ table {
   }
 
   th {
-    font-weight: bold;
+    font-weight: 400;
   }
 }
 
@@ -49,6 +49,7 @@ table.table a {
 }
 
 .table-dark {
+  color: black; // a bug fix when using light theme
   background-color: transparent;
   &.table-bordered {
     border: 1px solid var(--global-divider-color) !important;

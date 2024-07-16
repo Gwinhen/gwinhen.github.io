@@ -12,8 +12,10 @@ permalink: /awards/
 <br/><br/>
 
 * Program Committee / Reviewer
-    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">IEEE S&P</span>&nbsp;
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">S&P</span>&nbsp;
         IEEE Symposium on Security and Privacy: `2021` (Shadow), `2025`
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">SaTML</span>&nbsp;
+        IEEE Conference on Secure and Trustworthy Machine Learning: `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">RAID</span>&nbsp;
         International Symposium on Research in Attacks, Intrusions and Defenses: `2024`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">FSE</span>&nbsp;

@@ -10,6 +10,9 @@
 "NDSS":
   color: "#f95150cb"
 
+"ACSAC":
+  color: "#f95150cb"
+
 "NeurIPS":
   color: "#5f8ceecb"
 

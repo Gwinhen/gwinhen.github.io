@@ -78,6 +78,20 @@ layout: default
       </div>
     {% endif %}
 
+    <!-- Students -->
+    {% if page.students %}
+      <h2 style="margin-top:40pt;margin-bottom:20pt">
+        <a style="color: inherit">Students</a>
+      </h2>
+      <div class="students">
+        {% capture students_content %}
+          {% include_relative students.md %}
+        {% endcapture %}
+        {% assign students_content = students_content | split: "---" | last %}
+        {{ students_content | markdownify }}
+      </div>
+    {% endif %}
+
     <!-- Teaching -->
     {% if page.teaching %}
       <h2 style="margin-top:40pt;margin-bottom:20pt">

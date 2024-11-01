@@ -25,7 +25,7 @@ permalink: /awards/
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ICML</span>&nbsp;
         International Conference on Machine Learning: `2021`, `2022`, `2023`, `2024`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ICLR</span>&nbsp;
-        International Conference on Learning Representations: `2022` ([Highlighted](https://iclr.cc/Conferences/2022/Reviewers)), `2023`, `2024`
+        International Conference on Learning Representations: `2022` ([Highlighted](https://iclr.cc/Conferences/2022/Reviewers)), `2023`, `2024`, `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">CVPR</span>&nbsp;
         IEEE/CVF Conference on Computer Vision and Pattern Recognition: `2022`, `2023`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ECCV</span>&nbsp;
@@ -36,8 +36,12 @@ permalink: /awards/
         Annual Meeting of the Association for Computational Linguistics: `2023`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">EMNLP</span>&nbsp;
         Conference on Empirical Methods in Natural Language Processing: `2023`
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">AISTATS</span>&nbsp;
+        International Conference on Artificial Intelligence and Statistics: `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">AAAI</span>&nbsp;
         Annual AAAI Conference on Artificial Intelligence: `2024`
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">SATA</span>&nbsp;
+        NeurIPS Workshop on Towards Safe & Trustworthy Agents: `2024`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">DPML</span>&nbsp;
         ICLR Workshop on Distributed and Private Machine Learning: `2021`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">AGI</span>&nbsp;

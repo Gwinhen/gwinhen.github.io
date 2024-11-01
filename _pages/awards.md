@@ -12,4 +12,4 @@ permalink: /awards/
 
 * [CSAW 2021 Best Applied Security Paper Award TOP-10 Finalists](https://43f60238-2232-4612-9aac-81bc9da2dd4e.filesusr.com/ugd/acbc49_637a351f1cae4222a59435b711ccf3f2.pdf), Nov 2021
 
-* [OOPSLA 2019 Distinguished Paper Award](https://2019.splashcon.org/attending/splash-awards#oopsla-2019-distinguished-paper-awards), Oct 2019
+* [ACM SIGPLAN Distinguished Paper Award](https://2019.splashcon.org/attending/splash-awards#oopsla-2019-distinguished-paper-awards), Oct 2019

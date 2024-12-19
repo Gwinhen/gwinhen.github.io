@@ -14,6 +14,8 @@ permalink: /awards/
 * Program Committee / Reviewer
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">S&P</span>&nbsp;
         IEEE Symposium on Security and Privacy: `2021` (Shadow), `2025`
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">CCS</span>&nbsp;
+        ACM Conference on Computer and Communications Security: `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">SaTML</span>&nbsp;
         IEEE Conference on Secure and Trustworthy Machine Learning: `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">RAID</span>&nbsp;
@@ -23,11 +25,11 @@ permalink: /awards/
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">NeurIPS</span>&nbsp;
         Conference on Neural Information Processing Systems: `2021`, `2022`, `2023`, `2024`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ICML</span>&nbsp;
-        International Conference on Machine Learning: `2021`, `2022`, `2023`, `2024`
+        International Conference on Machine Learning: `2021`, `2022`, `2023`, `2024`, `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ICLR</span>&nbsp;
         International Conference on Learning Representations: `2022` ([Highlighted](https://iclr.cc/Conferences/2022/Reviewers)), `2023`, `2024`, `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">CVPR</span>&nbsp;
-        IEEE/CVF Conference on Computer Vision and Pattern Recognition: `2022`, `2023`
+        IEEE/CVF Conference on Computer Vision and Pattern Recognition: `2022`, `2023`, `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ECCV</span>&nbsp;
         European Conference on Computer Vision: `2022`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ICCV</span>&nbsp;

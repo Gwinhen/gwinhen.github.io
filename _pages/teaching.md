@@ -4,6 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+* [CS 5956: Intro to Machine Learning](https://utah.instructure.com/courses/1019218/assignments/syllabus), University of Utah, Spring 2025
+
 * [CS 6958 / CS 4960: Machine Learning Security](https://utah.instructure.com/courses/984664/assignments/syllabus), University of Utah, Fall 2024
 
 * Guest Lecture, [CS 431: Software Engineering](https://people.cs.rutgers.edu/~jz798/CS431/index.html), Rutgers University, Spring 2023

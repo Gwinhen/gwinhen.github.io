@@ -8,4 +8,4 @@ permalink: /students/
 
 * [Soumil Datta](https://soumildatta.github.io/)
 
-* Kang Yang (co-advised with Jun Xu)
+* Kang Yang (co-advised with [Dr. Jun Xu](https://sites.google.com/view/junxzm))

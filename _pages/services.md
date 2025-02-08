@@ -42,6 +42,10 @@ permalink: /awards/
         International Conference on Artificial Intelligence and Statistics: `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">AAAI</span>&nbsp;
         Annual AAAI Conference on Artificial Intelligence: `2024`
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">DLSP</span>&nbsp;
+        Deep Learning Security and Privacy Workshop (co-located with S&P): `2025`
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">LLMapp</span>&nbsp;
+        International Workshop on LLM App Store Analysis (co-located with FSE): `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">SATA</span>&nbsp;
         NeurIPS Workshop on Towards Safe & Trustworthy Agents: `2024`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">DPML</span>&nbsp;

@@ -9,7 +9,7 @@ profile:
   image: me.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p style="font-family: Gill Sans;font-size: 1.1em;"><i>"There is only one heroism in the world: to see the world as it is and to love it."</i> ― Romain Rolland</p>
+  #   <p style="font-family: Gill Sans;font-size: 1.1em;"><i>"There is only one heroism in the world: to see the world as it is and to love it."</i> ― Romain Rolland</p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
@@ -26,4 +26,4 @@ I am an Assistant Professor in [Kahlert School of Computing](https://www.cs.utah
 
 I obtained my Ph.D. from Purdue University under the supervision of [Dr. Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). I received my bachelor's degree from Zhejiang University.
 
-<b>I am looking for students interested in security and privacy at the intersection of machine learning and traditional systems. If you have a relevant background and are interested in this research direction, please email me with your CV and transcripts.</b>
+<!-- <b>I am looking for students interested in security and privacy at the intersection of machine learning and traditional systems. If you have a relevant background and are interested in this research direction, please email me with your CV and transcripts.</b> -->

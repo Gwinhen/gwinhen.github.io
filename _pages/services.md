@@ -35,7 +35,7 @@ permalink: /awards/
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ICCV</span>&nbsp;
         International Conference on Computer Vision: `2023`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ACL</span>&nbsp;
-        Annual Meeting of the Association for Computational Linguistics: `2023`
+        Annual Meeting of the Association for Computational Linguistics: `2023`, `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">EMNLP</span>&nbsp;
         Conference on Empirical Methods in Natural Language Processing: `2023`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">AISTATS</span>&nbsp;

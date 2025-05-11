@@ -13,7 +13,7 @@ permalink: /awards/
 
 * Program Committee / Reviewer
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">S&P</span>&nbsp;
-        IEEE Symposium on Security and Privacy: `2021` (Shadow), `2025`
+        IEEE Symposium on Security and Privacy: `2025`, `2026`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">CCS</span>&nbsp;
         ACM Conference on Computer and Communications Security: `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">SaTML</span>&nbsp;
@@ -23,17 +23,17 @@ permalink: /awards/
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">FSE</span>&nbsp;
         ACM Symposium on the Foundations of Software Engineering: `2023` (Artifact Evaluation)
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">NeurIPS</span>&nbsp;
-        Conference on Neural Information Processing Systems: `2021`, `2022`, `2023`, `2024`
+        Conference on Neural Information Processing Systems: `2021` - `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ICML</span>&nbsp;
-        International Conference on Machine Learning: `2021`, `2022`, `2023`, `2024`, `2025`
+        International Conference on Machine Learning: `2021` - `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ICLR</span>&nbsp;
-        International Conference on Learning Representations: `2022` ([Highlighted](https://iclr.cc/Conferences/2022/Reviewers)), `2023`, `2024`, `2025`
+        International Conference on Learning Representations: `2022` ([Highlighted](https://iclr.cc/Conferences/2022/Reviewers)) - `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">CVPR</span>&nbsp;
         IEEE/CVF Conference on Computer Vision and Pattern Recognition: `2022`, `2023`, `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ECCV</span>&nbsp;
         European Conference on Computer Vision: `2022`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ICCV</span>&nbsp;
-        International Conference on Computer Vision: `2023`
+        International Conference on Computer Vision: `2023`, `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ACL</span>&nbsp;
         Annual Meeting of the Association for Computational Linguistics: `2023`, `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">EMNLP</span>&nbsp;

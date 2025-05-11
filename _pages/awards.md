@@ -4,6 +4,8 @@ title: Awards
 permalink: /awards/
 ---
 
+* NVIDIA Academic Grant Award, 2025
+
 * [Maurice H. Halstead Memorial Research Award](https://www.cs.purdue.edu/news/articles/2023/2023_purdue_cs_awards.html), Apr 2023
 
 * [ECCV 2022 AROW Workshop Best Paper Award](https://eccv22-arow.github.io), Oct 2022

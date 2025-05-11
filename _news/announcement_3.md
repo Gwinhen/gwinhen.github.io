@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited to serve on the Program Committee of [IEEE S&P 2025](https://sp2025.ieee-security.org)
+Invited to serve on the Program Committee of [IEEE S&P 2025](https://sp2025.ieee-security.org).

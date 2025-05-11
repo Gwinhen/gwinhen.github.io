@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited to serve on the Program Committee of [SaTML 2025](https://satml.org/)
+Invited to serve on the Program Committee of [SaTML 2025](https://satml.org/).

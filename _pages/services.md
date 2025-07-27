@@ -14,10 +14,12 @@ permalink: /awards/
 * Program Committee / Reviewer
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">S&P</span>&nbsp;
         IEEE Symposium on Security and Privacy: `2025`, `2026`
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">USENIX</span>&nbsp;
+        USENIX Security Symposium: `2026`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">CCS</span>&nbsp;
         ACM Conference on Computer and Communications Security: `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">SaTML</span>&nbsp;
-        IEEE Conference on Secure and Trustworthy Machine Learning: `2025`
+        IEEE Conference on Secure and Trustworthy Machine Learning: `2025`, `2026`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">RAID</span>&nbsp;
         International Symposium on Research in Attacks, Intrusions and Defenses: `2024`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">FSE</span>&nbsp;

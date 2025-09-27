@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on detecting AI-generated text got accepted to [NeurIPS 2024](https://neurips.cc/).
+One paper on detecting AI-generated text got accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024).

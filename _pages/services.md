@@ -29,7 +29,7 @@ permalink: /awards/
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ICML</span>&nbsp;
         International Conference on Machine Learning: `2021` - `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ICLR</span>&nbsp;
-        International Conference on Learning Representations: `2022` ([Highlighted](https://iclr.cc/Conferences/2022/Reviewers)) - `2025`
+        International Conference on Learning Representations: `2022` ([Highlighted](https://iclr.cc/Conferences/2022/Reviewers)) - `2026`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">CVPR</span>&nbsp;
         IEEE/CVF Conference on Computer Vision and Pattern Recognition: `2022`, `2023`, `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ECCV</span>&nbsp;
@@ -43,22 +43,26 @@ permalink: /awards/
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">AISTATS</span>&nbsp;
         International Conference on Artificial Intelligence and Statistics: `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">AAAI</span>&nbsp;
-        Annual AAAI Conference on Artificial Intelligence: `2024`
+        Annual AAAI Conference on Artificial Intelligence: `2024`, `2026`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">DLSP</span>&nbsp;
         Deep Learning Security and Privacy Workshop (co-located with S&P): `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">LLMapp</span>&nbsp;
         International Workshop on LLM App Store Analysis (co-located with FSE): `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">SATA</span>&nbsp;
         NeurIPS Workshop on Towards Safe & Trustworthy Agents: `2024`
-    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">DPML</span>&nbsp;
-        ICLR Workshop on Distributed and Private Machine Learning: `2021`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">AGI</span>&nbsp;
         ICLR AGI Workshop: `2024`
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">DPML</span>&nbsp;
+        ICLR Workshop on Distributed and Private Machine Learning: `2021`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">TDSC</span>&nbsp;
         IEEE Transactions on Dependable and Secure Computing
-    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">T-IFS</span>&nbsp;
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">TIFS</span>&nbsp;
         IEEE Transactions on Information Forensics & Security
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">TSE</span>&nbsp;
+        IEEE Transactions on Software Engineering
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">TOPS</span>&nbsp;
         ACM Transactions on Privacy and Security
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">TMLR</span>&nbsp;
         Transactions on Machine Learning Research
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ASE</span>&nbsp;
+        Automated Software Engineering (Springer)

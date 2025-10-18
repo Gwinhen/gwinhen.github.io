@@ -4,6 +4,8 @@ title: Awards
 permalink: /awards/
 ---
 
+* [CCS 2025 Top Reviewers Award](https://www.sigsac.org/ccs/CCS2025/awards/#:~:text=Individual%20Awards-,Top%20Reviewers%20Award,-Aurore%20Fass), 2025
+
 * NVIDIA Academic Grant Award, 2025
 
 * [Maurice H. Halstead Memorial Research Award](https://www.cs.purdue.edu/news/articles/2023/2023_purdue_cs_awards.html), Apr 2023

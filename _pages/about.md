@@ -19,6 +19,7 @@ awards: true
 students: true
 teaching: true
 services: true
+acknowledge: true
 social: false # includes social icons at the bottom of the page
 ---
 

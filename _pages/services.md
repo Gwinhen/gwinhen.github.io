@@ -17,7 +17,7 @@ permalink: /awards/
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">USENIX</span>&nbsp;
         USENIX Security Symposium: `2026`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">CCS</span>&nbsp;
-        ACM Conference on Computer and Communications Security: `2025`
+        ACM Conference on Computer and Communications Security: `2025` ([Top Reviewers](https://www.sigsac.org/ccs/CCS2025/awards/#:~:text=Individual%20Awards-,Top%20Reviewers%20Award,-Aurore%20Fass))
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">SaTML</span>&nbsp;
         IEEE Conference on Secure and Trustworthy Machine Learning: `2025`, `2026`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">RAID</span>&nbsp;

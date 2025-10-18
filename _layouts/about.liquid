@@ -119,6 +119,20 @@ layout: default
       </div>
     {% endif %}
 
+    <!-- Acknowledgements -->
+    {% if page.acknowledge %}
+      <h2 style="margin-top:40pt;margin-bottom:20pt">
+        <a style="color: inherit">Acknowledgements</a>
+      </h2>
+      <div class="acknowledge">
+        {% capture acknowledge_content %}
+          {% include_relative acknowledge.md %}
+        {% endcapture %}
+        {% assign acknowledge_content = acknowledge_content | split: "---" | last %}
+        {{ acknowledge_content | markdownify }}
+      </div>
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">

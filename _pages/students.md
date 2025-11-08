@@ -6,7 +6,7 @@ permalink: /students/
 
 * [Shih-Chieh Dai](https://sjdai.github.io/)
 
-* [Soumil Datta](https://soumildatta.github.io/)
+* Soumil Datta (co-advised with [Dr. Daniel Brown](https://users.cs.utah.edu/~dsbrown/))
 
 * Kang Yang (co-advised with [Dr. Jun Xu](https://sites.google.com/view/junxzm))
 

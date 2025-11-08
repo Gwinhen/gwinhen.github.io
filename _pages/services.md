@@ -17,13 +17,9 @@ permalink: /awards/
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">USENIX</span>&nbsp;
         USENIX Security Symposium: `2026`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">CCS</span>&nbsp;
-        ACM Conference on Computer and Communications Security: `2025` ([Top Reviewers](https://www.sigsac.org/ccs/CCS2025/awards/#:~:text=Individual%20Awards-,Top%20Reviewers%20Award,-Aurore%20Fass))
+        ACM Conference on Computer and Communications Security: `2025` ([Top Reviewers](https://www.sigsac.org/ccs/CCS2025/awards/#:~:text=Individual%20Awards-,Top%20Reviewers%20Award,-Aurore%20Fass)), `2026`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">SaTML</span>&nbsp;
         IEEE Conference on Secure and Trustworthy Machine Learning: `2025`, `2026`
-    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">RAID</span>&nbsp;
-        International Symposium on Research in Attacks, Intrusions and Defenses: `2024`
-    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">FSE</span>&nbsp;
-        ACM Symposium on the Foundations of Software Engineering: `2023` (Artifact Evaluation)
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">NeurIPS</span>&nbsp;
         Conference on Neural Information Processing Systems: `2021` - `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ICML</span>&nbsp;
@@ -32,18 +28,22 @@ permalink: /awards/
         International Conference on Learning Representations: `2022` ([Highlighted](https://iclr.cc/Conferences/2022/Reviewers)) - `2026`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">CVPR</span>&nbsp;
         IEEE/CVF Conference on Computer Vision and Pattern Recognition: `2022`, `2023`, `2025`
-    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ECCV</span>&nbsp;
-        European Conference on Computer Vision: `2022`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ICCV</span>&nbsp;
         International Conference on Computer Vision: `2023`, `2025`
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ECCV</span>&nbsp;
+        European Conference on Computer Vision: `2022`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">ACL</span>&nbsp;
         Annual Meeting of the Association for Computational Linguistics: `2023`, `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">EMNLP</span>&nbsp;
         Conference on Empirical Methods in Natural Language Processing: `2023`
-    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">AISTATS</span>&nbsp;
-        International Conference on Artificial Intelligence and Statistics: `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">AAAI</span>&nbsp;
         Annual AAAI Conference on Artificial Intelligence: `2024`, `2026`
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">AISTATS</span>&nbsp;
+        International Conference on Artificial Intelligence and Statistics: `2025`
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">RAID</span>&nbsp;
+        International Symposium on Research in Attacks, Intrusions and Defenses: `2024`
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">FSE</span>&nbsp;
+        ACM Symposium on the Foundations of Software Engineering: `2023` (Artifact Evaluation)
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">DLSP</span>&nbsp;
         Deep Learning Security and Privacy Workshop (co-located with S&P): `2025`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">LLMapp</span>&nbsp;
@@ -60,6 +60,8 @@ permalink: /awards/
         IEEE Transactions on Information Forensics & Security
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">TSE</span>&nbsp;
         IEEE Transactions on Software Engineering
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">TOSEM</span>&nbsp;
+        ACM Transactions on Software Engineering and Methodology
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">TOPS</span>&nbsp;
         ACM Transactions on Privacy and Security
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">TMLR</span>&nbsp;

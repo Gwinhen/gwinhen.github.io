@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-* [CS 6958 / CS 4960: Machine Learning Security](https://utah.instructure.com/courses/984664/assignments/syllabus), University of Utah, Fall 2024 - 2025
+* CS 6958 / CS 4960: Machine Learning Security, University of Utah, Fall [2024](https://utah.instructure.com/courses/984664/assignments/syllabus), [2025](https://utah.instructure.com/courses/1167146/assignments/syllabus)
 
 * [CS 5956: Intro to Machine Learning](https://utah.instructure.com/courses/1019218/assignments/syllabus), University of Utah, Spring 2025
 

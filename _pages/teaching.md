@@ -6,7 +6,7 @@ permalink: /teaching/
 
 * CS 6958 / CS 4960: Machine Learning Security, University of Utah, Fall [2024](https://utah.instructure.com/courses/984664/assignments/syllabus), [2025](https://utah.instructure.com/courses/1167146/assignments/syllabus)
 
-* [CS 5956: Intro to Machine Learning](https://utah.instructure.com/courses/1019218/assignments/syllabus), University of Utah, Spring 2025
+* CS 5956: Intro to Machine Learning, University of Utah, Spring [2025](https://utah.instructure.com/courses/1019218/assignments/syllabus), [2026](https://utah.instructure.com/courses/1217104/assignments/syllabus)
 
 * Guest Lecture, COMPSCI 360: Introduction to Computer and Network Security, UMass Amherst, Spring 2024
 

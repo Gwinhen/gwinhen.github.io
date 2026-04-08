@@ -23,8 +23,13 @@ permalink: /students/
 
 <h5>Undergrad</h5>
 <ul style="line-height:2; margin-bottom:15px;">
-    <li>Melissa Umble</li>
     <li>Xinyu Sun</li>
     <li>Johnny Song</li>
-    <li>Leo Yu (University of Utah → Undergrad at NYU)</li>
+</ul>
+
+
+<h5>Alumni</h5>
+<ul style="line-height:2; margin-bottom:15px;">
+    <li>Melissa Umble (UG'26), SoFi</li>
+    <li>Leo Yu (UG'25), Undergrad at NYU</li>
 </ul>

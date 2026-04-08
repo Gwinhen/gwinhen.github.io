@@ -1,6 +1,9 @@
 "S&P":
   color: "#f95150cb"
 
+"S&P Poster":
+  color: "#f95150cb"
+
 "USENIX Security":
   color: "#f95150cb"
 
@@ -11,6 +14,9 @@
   color: "#f95150cb"
 
 "ACSAC":
+  color: "#f95150cb"
+
+"TIFS":
   color: "#f95150cb"
 
 "NeurIPS":

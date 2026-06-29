@@ -30,6 +30,7 @@ permalink: /students/
 
 <h5>Alumni</h5>
 <ul style="line-height:2; margin-bottom:15px;">
-    <li>Melissa Umble (UG'26), SoFi</li>
-    <li>Leo Yu (UG'25), Undergrad at NYU</li>
+    <li>Jaibir Sandhu (BS'26), MS at Georgia Tech</li>
+    <li>Melissa Umble (BS'26), SoFi</li>
+    <li>Leo Yu (UG'25), BS at NYU</li>
 </ul>

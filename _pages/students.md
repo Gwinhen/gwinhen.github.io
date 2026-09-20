@@ -9,6 +9,7 @@ permalink: /students/
     <li><a href="https://sjdai.github.io/">Shih-Chieh Dai</a></li>
     <li><a href="https://cooperzzy.github.io/">Zhiyuan Zhong</a></li>
     <li><a href="https://leopoldzhang1610.github.io">Haichuan Zhang</a></li>
+    <li>Xinyu Sun</li>
     <li>Soumil Datta (co-advised with <a href="https://users.cs.utah.edu/~dsbrown/">Dr. Daniel Brown</a>)</li>
     <li>Kang Yang (co-advised with <a href="https://sites.google.com/view/junxzm">Dr. Jun Xu</a>)</li>
     <li>Wanjing Han (co-advised with <a href="https://sites.google.com/site/muzhang82/">Dr. Mu Zhang</a>)</li>
@@ -23,7 +24,6 @@ permalink: /students/
 
 <h5>Undergrad</h5>
 <ul style="line-height:2; margin-bottom:15px;">
-    <li>Xinyu Sun</li>
     <li>Johnny Song</li>
 </ul>
 

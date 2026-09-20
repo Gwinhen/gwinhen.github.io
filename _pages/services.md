@@ -5,17 +5,24 @@ permalink: /awards/
 ---
 
 * Program Chair / Organizer
-    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">BANDS</span>&nbsp;
-        The 1st ICLR Workshop on [Backdoor Attacks and Defenses in Machine Learning](https://iclr23-bands.github.io)
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">LLMSC</span>&nbsp;
+        ICSE 2027 Workshop on [Large Language Model Supply Chain Analysis](https://llmsc.github.io/)
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">AISCC</span>&nbsp;
         NDSS 2024 Workshop on [AI System with Confidential Computing](https://sites.google.com/view/aiscc2024/home?authuser=1)
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">BANDS</span>&nbsp;
+        ICLR 2023 Workshop on [Backdoor Attacks and Defenses in Machine Learning](https://iclr23-bands.github.io)
+<br/><br/>
+
+* Senior Program Committee
+    - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">AAAI</span>&nbsp;
+        Annual AAAI Conference on Artificial Intelligence: `2027`
 <br/><br/>
 
 * Program Committee / Reviewer
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">S&P</span>&nbsp;
-        IEEE Symposium on Security and Privacy: `2025`, `2026`
+        IEEE Symposium on Security and Privacy: `2025` - `2027`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">USENIX</span>&nbsp;
-        USENIX Security Symposium: `2026`
+        USENIX Security Symposium: `2026`, `2027`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">CCS</span>&nbsp;
         ACM Conference on Computer and Communications Security: `2025` ([Top Reviewers](https://www.sigsac.org/ccs/CCS2025/awards/#:~:text=Individual%20Awards-,Top%20Reviewers%20Award,-Aurore%20Fass)), `2026`
     - <span class="badge align-middle" style="min-width:75px;background-color:#4b515dcd">SaTML</span>&nbsp;
